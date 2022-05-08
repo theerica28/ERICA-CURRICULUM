@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(96, 143, 212);
+}
+
+header{
+    width: 100%;
+    background-color: aliceblue;
+}
+ h1{
+     text-align: center;
+     font-style: italic;
+    text-shadow: 2px 2px;
+    color: darkblue;
+     
+     
+ }
+
+ p{
+     font-size: 23px;
+     color: darkblue;
+
+ }
+
+ h3{
+     font-size: 23px;
+     color: darkblue
+    
+ }
+ 
+ img{
+     width: 250px;
+     height: 250px;
+     margin: 20px;
+     float: left;
+     border-radius: 50%;
+     
+ }
+
+     
+
+
+
+ 
