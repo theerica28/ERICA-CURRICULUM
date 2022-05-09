@@ -1,0 +1,64 @@
+body{
+    background: linear-gradient(
+  90deg,
+  rgb(135, 135, 138) 0%,
+  rgb(86, 86, 91) 35%,
+  rgb(9, 9, 9) 100%
+);
+
+}
+
+header{
+    width: 100%;
+    background-color: white;
+}
+ h1{
+     text-align: center;
+     font-style: italic;
+     font-size: 500%;
+    text-shadow: 3px 3px;
+    color: darkblue;
+     
+     
+ }
+
+ p{
+     font-size: 23px;
+     color: whitesmoke;
+     
+
+ }
+
+ h3{
+     font-size: 23px;
+     color: darkblue;
+    
+ }
+ 
+ img{
+     width: 250px;
+     height: 250px;
+     margin: 20px;
+     float: left;
+     border-radius: 50%;
+     
+ }
+  table{
+    width: 1220px;
+    height: 50px;
+    position: relative;
+    float: right;
+    
+  }
+
+  tr{
+      background-color:grey;
+  }
+
+     
+
+
+
+
+
+ 
