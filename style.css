@@ -1,64 +1,124 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Great+Vibes&family=Gruppo&display=swap');
+
 body{
-    background: linear-gradient(
-  90deg,
-  rgb(135, 135, 138) 0%,
-  rgb(86, 86, 91) 35%,
-  rgb(9, 9, 9) 100%
-);
+   background-color: rgb(128, 4, 244);
+
 
 }
 
 header{
-    width: 100%;
-    background-color: white;
+   
+    border-radius: 15px;
+    padding: 0.5px;
+    margin-left: 600px;
+    margin-right: 600px;
+  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+}
+
+h2{
+    font-size: 90px;
+    font-family: 'Gruppo', sans-serif;
+    color: rgb(246, 9, 183);
+    background-color: #fff;
+    border-radius: 15px;
+    text-align: center;
+    margin-left:1.5px;
+    
+   
+}
+header h1{
+    font-size: 130px;
+    
+}
+
+img{
+    border-radius: 15px;
+    margin-top: 100px;
+    align-content: left;
+
+    
 }
  h1{
-     text-align: center;
-     font-style: italic;
-     font-size: 500%;
-    text-shadow: 3px 3px;
-    color: darkblue;
-     
+    text-align: center;
+    font-family: 'Gruppo', sans-serif;
+    font-size: 40px;
+    color: rgb(246, 9, 183);
+    background-color: #fff;
+    border-radius: 15px;
+    padding-left: 2px;
+    margin-left: 800px;
+    margin-right: 800px;
+    margin-top: 30px;
+    font-family: 'Gruppo', sans-serif;
+   
+    
      
  }
+
+ .apresentacao{
+    background-color: #fff;
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 15px;
+ }
+
 
  p{
-     font-size: 23px;
-     color: whitesmoke;
      
-
- }
-
- h3{
-     font-size: 23px;
-     color: darkblue;
+     color: rgb(246, 9, 183);
+     font-size: 35px;
+     font-family: 'Gruppo', sans-serif;
+     margin: 50px;
     
+
  }
+
+ .content p{
  
- img{
-     width: 250px;
-     height: 250px;
-     margin: 20px;
-     float: left;
-     border-radius: 50%;
-     
- }
-  table{
-    width: 1220px;
-    height: 50px;
-    position: relative;
-    float: right;
+    border-radius: 15px;
+    color: rgb(246, 9, 183);
+    background-color: #fff;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 15px;
+    text-align: center;
     
-  }
+ }
+ .principal{
+    background-color: rgb(251, 3, 185);
+    border-radius: 50px;
+    
+ }
 
-  tr{
-      background-color:grey;
-  }
+ li{
+    list-style: none;
+    font-size: 30px;
+    color: rgb(246, 9, 183);
+    background-color: #fff;
+    display: inline-block;
+    border-radius: 15px;
+    margin-left: 35px;
+    margin-top: 30px;
+    font-family: 'Gruppo', sans-serif;
+   
+ }
 
-     
+ a:link{
+    color: rgb(178, 6, 246);
 
 
+ }
+ a:visited{
+    color: rgb(246, 9, 183);
 
+ }
+a:hover{
+    color: rgb(225, 0, 255);
+}
 
-
+ 
  
